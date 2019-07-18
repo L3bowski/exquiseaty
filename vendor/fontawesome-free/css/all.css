@@ -4383,8 +4383,8 @@ readers do not read off random characters that represent icons */
   font-style: normal;
   font-weight: 900;
   font-display: auto;
-  src: url("../webfonts/fa-solid-900.eot?$modena=dishwish");
-  src: url("../webfonts/fa-solid-900.eot?$modena=dishwish#iefix") format("embedded-opentype"), url("../webfonts/fa-solid-900.woff2?$modena=dishwish") format("woff2"), url("../webfonts/fa-solid-900.woff?$modena=dishwish") format("woff"), url("../webfonts/fa-solid-900.ttf?$modena=dishwish") format("truetype"), url("../webfonts/fa-solid-900.svg?$modena=dishwish#fontawesome") format("svg"); }
+  src: url("../webfonts/fa-solid-900.eot?$modena=exquiseaty");
+  src: url("../webfonts/fa-solid-900.eot?$modena=exquiseaty#iefix") format("embedded-opentype"), url("../webfonts/fa-solid-900.woff2?$modena=exquiseaty") format("woff2"), url("../webfonts/fa-solid-900.woff?$modena=exquiseaty") format("woff"), url("../webfonts/fa-solid-900.ttf?$modena=exquiseaty") format("truetype"), url("../webfonts/fa-solid-900.svg?$modena=exquiseaty#fontawesome") format("svg"); }
 
 .fa,
 .fas {
